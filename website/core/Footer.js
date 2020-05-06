@@ -56,7 +56,7 @@ class Footer extends React.Component {
           <div>
             <h5>Community</h5>
             <a href="https://discord.gg/MUpMjP2">Support chatroom</a>
-            <a href='https://mailchi.mp/spotify/backstage-community'>Subscribe to newsletter</a>
+            <a href='https://mailchi.mp/spotify/backstage-community'>Subscribe to our newsletter</a>
             {/*
             <h5>Docs</h5>
             <a href={this.docUrl("developing-a-plugin.html", this.props.language)}>

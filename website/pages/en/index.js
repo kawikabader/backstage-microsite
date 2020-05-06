@@ -124,7 +124,7 @@ in one place, your engineers will always know where to find the right tool for t
 
         <ActionBlock className="stripe-top bg-teal">
           <ActionBlock.Title>
-            Subscribe to newsletter
+            Subscribe to our newsletter
           </ActionBlock.Title>
           <ActionBlock.Link href='https://mailchi.mp/spotify/backstage-community'>
             Subscribe
