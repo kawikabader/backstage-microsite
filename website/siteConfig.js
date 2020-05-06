@@ -38,7 +38,7 @@ const siteConfig = {
     { page: "blog", blog: true, label: "Blog" },
     { page: "demos", label: "Demos" },
     { page: "background", label: "The Spotify story" },
-    { href: "https://forms.gle/diN2zFYW7YbP17gE7", label: "Request live demo" },
+    { href: "https://mailchi.mp/spotify/backstage-community", label: "Newsletter" },
   ],
 
   /* path to images for header/footer */
