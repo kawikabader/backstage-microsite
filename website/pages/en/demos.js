@@ -13,7 +13,7 @@ const Background = (props) => {
   const { config: siteConfig } = props;
   const { baseUrl } = siteConfig;
   return (
-    <div className="mainWrapper">
+    <main className="MainContent">
 
       <Block small className="stripe-bottom bg-black-grey">
         <Block.Container style={{justifyContent: "flex-start"}}>
@@ -39,7 +39,7 @@ const Background = (props) => {
             <Block.LinkButton href={"https://www.youtube.com/watch?v=U1iwe3L5pzc"}>Request a live demo</Block.LinkButton>
           </Block.TextBox>
           <Block.TextBox>
-            <iframe width="800" height="500" src="https://www.youtube.com/embed/vcDL9tOv7Eo" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+            <iframe width="800" height="500" src="https://www.youtube.com/embed/vcDL9tOv7Eo" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </Block.TextBox>
         </Block.Container>
       </Block>
@@ -52,7 +52,7 @@ const Background = (props) => {
           <Block.LinkButton href={"https://www.youtube.com/watch?v=rH46MLNZIPM "}>Request a live demo</Block.LinkButton>
         </Block.TextBox>
         <Block.TextBox>
-          <iframe width="800" height="500" src="https://www.youtube.com/embed/rH46MLNZIPM" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+          <iframe width="800" height="500" src="https://www.youtube.com/embed/rH46MLNZIPM" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         </Block.TextBox>
       </Block.Container>
       </Block>
@@ -66,11 +66,11 @@ const Background = (props) => {
             <Block.LinkButton href={"https://www.youtube.com/watch?v=U1iwe3L5pzc"}>Request a live demo</Block.LinkButton>
           </Block.TextBox>
           <Block.TextBox>
-            <iframe width="800" height="500" src="https://www.youtube.com/embed/U1iwe3L5pzc" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+            <iframe width="800" height="500" src="https://www.youtube.com/embed/U1iwe3L5pzc" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </Block.TextBox>
         </Block.Container>
       </Block>
-    </div>
+    </main>
   );
 }
 
