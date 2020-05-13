@@ -4,7 +4,7 @@
         <title>Backstage Blog</title>
         <link>https://backstage.io/blog</link>
         <description>The best place to stay up-to-date with the latest Backstage news and events.</description>
-        <lastBuildDate>Thu, 30 Apr 2020 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://backstage.io/blog</link>
         </image>
         <copyright>Copyright © 2020 Spotify AB</copyright>
+        <item>
+            <title><![CDATA[Weaveworks’ COVID-19 app uses Backstage UI]]></title>
+            <link>https://backstage.io/blog/2020/05/14/weaveworks-covid-19-app-uses-backstage-ui.html</link>
+            <guid>https://backstage.io/blog/2020/05/14/weaveworks-covid-19-app-uses-backstage-ui.html</guid>
+            <pubDate>Thu, 14 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/blog/assets/20-05-14/weaveworks-firekube-covid-19-spotify-backstage.png" alt="fk-covid-screenshot"></p> <p>One of the great things about the open source community is once you put your work out there, you really never know where it might end up. That’s certainly the case here.</p> <p>When Weaveworks decided to build an X-ray diagnostics app to help fight COVID-1...</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[How to quickly set up Backstage]]></title>
             <link>https://backstage.io/blog/2020/04/30/how-to-quickly-set-up-backstage.html</link>
