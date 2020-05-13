@@ -11,7 +11,7 @@ One of the great things about the open source community is once you put your wor
 
 When Weaveworks decided to build an X-ray diagnostics app to help fight COVID-19, they pulled together a lot of different open source resources — from projects big and small, built by both familiar tech partners and some brand new ones, too.
 
-At the heart of their app — called [fk-covid][] — there’s a TensorFlow-based deep neural network that was developed by researchers on the DarwinAI team and others in the COVID R&D community. To package that network up for doctors and software developers to use, the app combines open source tools from Google, AWS, Azure, MiniIO, the CNCF, and Weaveworks’ own Firekube bundle for Kubernetes. 
+At the heart of their app — called [fk-covid][] — there’s a TensorFlow-based deep neural network that was developed by researchers on the DarwinAI team and others in the COVID R&D community. To package that network up for doctors and software developers to use, the app combines open source tools from Google, AWS, Azure, MinIO, the CNCF, and Weaveworks’ own Firekube bundle for Kubernetes. 
 
 And the user interface for all of this? Weaveworks built a custom plugin using the Backstage framework.
 
@@ -19,7 +19,7 @@ And the user interface for all of this? Weaveworks built a custom plugin using t
 
 Chanwit Kaewkasi, Weaveworks’ DX Engineer and a tech lead on the project, said, “Backstage offers very advanced plugin architecture which allows us to only focus on the plugin we're developing. Other things are taken care of by the framework.”
 
-In other words, here’s Backstage doing what Backstage does best: unifying a whole bunch of technologies with a cohesive frontend, so that the whole thing is easier to build and easier to use. 
+In other words, here’s Backstage doing what Backstage does best: unifying a bunch of technologies with a cohesive frontend, so that the whole thing is easier to build and easier to use. 
 
 Joining the fight against a global pandemic was not something the Backstage team at Spotify ever envisioned when we released our homegrown developer portal to the world back in March. But it’s a testament to the ingenuity (and serendipity) of the open source community that Backstage could be enlisted for such an unexpected use case. 
 
