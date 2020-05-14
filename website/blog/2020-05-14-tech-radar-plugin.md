@@ -1,5 +1,5 @@
 ---
-title: Introducing Lighthouse for Backstage
+title: Introducing Tech Radar for Backstage
 author: Bilawal Hameed
 authorURL: http://twitter.com/bilawalhameed
 authorImageURL: https://avatars0.githubusercontent.com/bih
