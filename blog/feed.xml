@@ -21,6 +21,15 @@
             <description><![CDATA[<p><img src="/blog/assets/20-05-14/weaveworks-firekube-covid-19-spotify-backstage.png" alt="fk-covid-screenshot"></p> <p>One of the great things about the open source community is once you put your work out there, you really never know where it might end up. That’s certainly the case here.</p> <p>When Weaveworks decided to build an X-ray diagnostics app to help fight COVID-1...</p>]]></description>
         </item>
         <item>
+            <title><![CDATA[Introducing Lighthouse for Backstage]]></title>
+            <link>https://backstage.io/blog/2020/05/14/tech-radar-plugin.html</link>
+            <guid>https://backstage.io/blog/2020/05/14/tech-radar-plugin.html</guid>
+            <pubDate>Thu, 14 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="/blog/assets/5/lead.png" alt="image illustrating the Tech Radar plugin for Backstage"></p>
+<p>Just a few weeks ago, we released our internal plugin for [Lighthouse website audits] as our first open source plugin, so the whole community could use it. Today, we’re excited to add a new plugin to that list — say hello to the [Tech Radar plugin]!</p>
+]]></description>
+        </item>
+        <item>
             <title><![CDATA[How to quickly set up Backstage]]></title>
             <link>https://backstage.io/blog/2020/04/30/how-to-quickly-set-up-backstage.html</link>
             <guid>https://backstage.io/blog/2020/04/30/how-to-quickly-set-up-backstage.html</guid>

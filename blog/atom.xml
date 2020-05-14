@@ -21,6 +21,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Lighthouse for Backstage]]></title>
+        <id>https://backstage.io/blog/2020/05/14/tech-radar-plugin.html</id>
+        <link href="https://backstage.io/blog/2020/05/14/tech-radar-plugin.html"/>
+        <updated>2020-05-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/blog/assets/5/lead.png" alt="image illustrating the Tech Radar plugin for Backstage"></p>
+<p>Just a few weeks ago, we released our internal plugin for [Lighthouse website audits] as our first open source plugin, so the whole community could use it. Today, we’re excited to add a new plugin to that list — say hello to the [Tech Radar plugin]!</p>
+]]></summary>
+        <author>
+            <name>Bilawal Hameed</name>
+            <email/>
+            <uri>http://twitter.com/bilawalhameed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to quickly set up Backstage]]></title>
         <id>https://backstage.io/blog/2020/04/30/how-to-quickly-set-up-backstage.html</id>
         <link href="https://backstage.io/blog/2020/04/30/how-to-quickly-set-up-backstage.html"/>
