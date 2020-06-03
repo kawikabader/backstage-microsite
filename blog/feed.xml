@@ -28,7 +28,9 @@
             <link>https://backstage.io/blog/2020/05/14/weaveworks-covid-19-app-uses-backstage-ui.html</link>
             <guid>https://backstage.io/blog/2020/05/14/weaveworks-covid-19-app-uses-backstage-ui.html</guid>
             <pubDate>Thu, 14 May 2020 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p><img src="/blog/assets/20-05-14/weaveworks-firekube-covid-19-spotify-backstage.png" alt="fk-covid-screenshot"></p> <p>One of the great things about the open source community is once you put your work out there, you really never know where it might end up. That’s certainly the case here.</p> <p>When Weaveworks decided to build an X-ray diagnostics app to help fight COVID-1...</p>]]></description>
+            <description><![CDATA[<p><img src="/blog/assets/20-05-14/weaveworks-firekube-covid-19-spotify-backstage.png" alt="fk-covid-screenshot"></p>
+<p>One of the great things about the open source community is once you put your work out there, you really never know where it might end up. That’s certainly the case here.</p>
+]]></description>
         </item>
         <item>
             <title><![CDATA[Introducing Tech Radar for Backstage]]></title>
