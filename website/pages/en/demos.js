@@ -45,6 +45,20 @@ const Background = (props) => {
       <Block small className="bg-black-grey">
         <Block.Container style={{justifyContent: "flex-start"}}>
           <Block.TextBox>
+            <Block.Title>Manage your tech health</Block.Title>
+            <Block.Paragraph>Instead of manually updating a spreadsheet, what if you had a beautiful dashboard that could give you an instant, interactive picture of your entire org’s tech stack? That’s how we do it at Spotify. With our Tech Insights plugin for Backstage, anyone at Spotify can see which version of which software anyone else at Spotify is using — and a whole a lot more. From managing migrations to fighting tech entropy, Backstage makes managing our tech health actually kind of pleasant.</Block.Paragraph>
+
+            <Block.LinkButton href={"https://www.youtube.com/watch?v=K3xz6VAbgH8&list=PLf1KFlSkDLIBtMGwRDfaVlKMqTMrjD2yO&index=6"}>Watch now</Block.LinkButton>
+          </Block.TextBox>
+          <Block.TextBox>
+            <iframe width="800" height="500" src="https://www.youtube.com/embed/K3xz6VAbgH8" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+          </Block.TextBox>
+        </Block.Container>
+      </Block>
+
+      <Block small className="stripe bg-black">
+        <Block.Container style={{justifyContent: "flex-start"}}>
+          <Block.TextBox>
             <Block.Title>Create a microservice</Block.Title>
             <Block.Paragraph>You’re a Spotify engineer about to build a new microservice (or any component) using Spring Boot. Where do you start? Search for a quick start guide online? Create an empty repo on GitHub? Copy and paste an old project? Nope. Just go to Backstage, and you’ll be up and running in two minutes — with a “Hello World” app, CI, and documentation all automatically set up and configured in a standardized way.</Block.Paragraph>
 
@@ -56,7 +70,7 @@ const Background = (props) => {
         </Block.Container>
       </Block>
 
-      <Block small className="stripe bg-black">
+      <Block small className="bg-black-grey">
         <Block.Container style={{justifyContent: "flex-start"}}>
           <Block.TextBox>
             <Block.Title>Search all your services</Block.Title>
