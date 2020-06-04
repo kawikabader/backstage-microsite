@@ -33,12 +33,27 @@ const siteConfig = {
   gaTrackingId: "UA-48912878-10",
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { href: "https://github.com/spotify/backstage", label: "GitHub" },
-    { page: "blog", blog: true, label: "Blog" },
-    { page: "demos", label: "Demos" },
-    { page: "background", label: "The Spotify story" },
-    { href: "https://mailchi.mp/spotify/backstage-community", label: "Newsletter" },
+  headerLinks: [{
+      href: "https://github.com/spotify/backstage",
+      label: "GitHub"
+    },
+    {
+      page: "blog",
+      blog: true,
+      label: "Blog"
+    },
+    {
+      page: "demos",
+      label: "Demos"
+    },
+    {
+      page: "background",
+      label: "The Spotify story"
+    },
+    {
+      href: "https://mailchi.mp/spotify/backstage-community",
+      label: "Newsletter"
+    },
   ],
 
   /* path to images for header/footer */
@@ -77,8 +92,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: "img/logo-black-248x250.png",
-  twitterImage: "img/logo-black-248x250.png",
+  ogImage: "img/logo-gradient-on-dark.svg",
+  twitterImage: "img/logo-gradient-on-dark.svg",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
