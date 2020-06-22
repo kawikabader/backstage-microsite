@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://backstage.io/blog</id>
     <title>Backstage Blog</title>
-    <updated>2020-05-22T06:00:00.000Z</updated>
+    <updated>2020-06-22T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://backstage.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Backstage news and events.</subtitle>
     <logo>https://backstage.io/undefined</logo>
     <rights>Copyright © 2020 Spotify AB</rights>
+    <entry>
+        <title type="html"><![CDATA[Backstage Service Catalog released in alpha]]></title>
+        <id>https://backstage.io/blog/2020/06/22/backstage-service-catalog-alpha.html</id>
+        <link href="https://backstage.io/blog/2020/06/22/backstage-service-catalog-alpha.html"/>
+        <updated>2020-06-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>TL;DR</strong> Today we are announcing the availability of the Backstage Service Catalog in alpha. This has been the community’s most requested feature. Even if the catalog is not ready for production yet, we think this release already demonstrates how Backstage can provide value for your company right out of the box. With your early input and feedback, we hope to create a stronger generally available product.</p>
+<p><img src="/blog/assets/6/header.png" alt="img"></p>
+]]></summary>
+        <author>
+            <name>Stefan Ålund</name>
+            <email/>
+            <uri>http://twitter.com/stalund</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starting Phase 2: The Service Catalog]]></title>
         <id>https://backstage.io/blog/2020/05/22/phase-2-service-catalog.html</id>
