@@ -25,8 +25,6 @@ With these insights we decided to re-focus our efforts towards the most requeste
 
 The Backstage Service Catalog — actually, a software catalog, since it includes more than just services — is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of [metadata yaml files](https://github.com/spotify/backstage/issues/767) stored together with the code, which are then harvested and visualized in Backstage.
 
-![img](assets/6/header.png)
-
 This was our pitch for the virtues of a service catalog when we first [announced](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) it as part of Phase 2:
 
 > With a single catalog, Backstage makes it easy for a team to manage ten services — and makes it possible for your company to manage thousands of them. Because the system is practically self-organizing, it requires hardly any oversight from a governing or centralized team. Developers can get a uniform overview of all their software and related resources (such as server utilisation, data pipelines, pull request status), regardless of how and where they are running, as well as an easy way to onboard and manage those resources.
