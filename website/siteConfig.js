@@ -61,6 +61,7 @@ const siteConfig = {
   footerIcon: "img/android-chrome-192x192.png",
   favicon: "img/favicon.svg",
 
+
   /* Colors for website */
   colors: {
     primaryColor: "#36BAA2",
@@ -92,8 +93,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: "img/logo-gradient-on-dark.svg",
-  twitterImage: "img/logo-gradient-on-dark.svg",
+  ogImage: "https://backstage.io/blog/assets/6/header.png",
+  twitterImage: "https://backstage.io/blog/assets/6/header.png",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
