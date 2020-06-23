@@ -2,6 +2,7 @@
 title: Backstage Service Catalog released in alpha
 author: Stefan Ålund
 authorURL: http://twitter.com/stalund
+image: https://backstage.io/blog/assets/6/header.png
 ---
 
 **TL;DR** Today we are announcing the availability of the Backstage Service Catalog in alpha. This has been the community’s most requested feature. Even if the catalog is not ready for production yet, we think this release already demonstrates how Backstage can provide value for your company right out of the box. With your early input and feedback, we hope to create a stronger generally available product.
