@@ -39,7 +39,7 @@ You’ll be able to see many of these virtues in action with this alpha release 
 
 Alpha is our shorthand for "we don’t yet think Backstage is ready for production, but we’d love for you to test it and provide us with feedback". However, you should be able to try out the functionality of the service catalog:
 
-1. Register software components ([examples](https://github.com/spotify/backstage/tree/master/plugins/catalog-backend/examples))
+1. Register software components ([examples](https://github.com/spotify/backstage/tree/master/packages/catalog-model/examples))
 2. See all components represented in the catalog
 3. Search across all components
 4. Get an overview of the metadata of the components
