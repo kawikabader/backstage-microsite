@@ -30,7 +30,7 @@ AUTH_GOOGLE_CLIENT_ID=x AUTH_GOOGLE_CLIENT_SECRET=x AUTH_GITHUB_CLIENT_ID=x AUTH
 You can find the implementation for these strategies along with a lightweight PoC implementation for SAML authentication at `<root>/plugins/auth-backend/src/providers`.
 
 ### Ready to get started by adding your chosen provider and implementation?
-Getting started is really straightforward, and can be broadly broken down into five steps;
+Getting started is really straightforward, and can be broadly broken down into five steps:
 
 1. Install the [Passport-based provider package that best suits your needs](http://www.passportjs.org/). 
 2. Create a new folder structure for the provider.
@@ -38,7 +38,7 @@ Getting started is really straightforward, and can be broadly broken down into f
 4. Add the provider to the backend.
 5. Add a frontend Auth Utility API.
 
-For full details, take a look at our [”Adding authentication providers” documentation](https://github.com/spotify/backstage/blob/master/docs/auth/add-auth-provider.md) and at the [excellent documentation](http://www.passportjs.org/docs/) provided by Passport.
+For full details, take a look at our [“Adding authentication providers” documentation](https://github.com/spotify/backstage/blob/master/docs/auth/add-auth-provider.md) and at the [excellent documentation](http://www.passportjs.org/docs/) provided by Passport.
 
 ## Interested in contributing to the next steps for authentication?
 We’re already thinking about a few other providers we’d like to add to Backstage. You can find those, and other authentication-related issues, in our repository by filtering with the [auth label](https://github.com/spotify/backstage/issues?q=is%3Aissue+is%3Aopen+label%3Aauth).
