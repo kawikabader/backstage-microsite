@@ -33,7 +33,7 @@ You can find the implementation for these strategies along with a lightweight pr
 Getting started is really straightforward, and can be broadly broken down into five steps:
 
 1. Install the [Passport-based provider package that best suits your needs](http://www.passportjs.org/). 
-2. Create a new folder structure for the provider.
+2. Add a new provider to `plugins/auth-backend/src/providers/`
 3. Implement the provider, extending the suitable framework, if needed.
 4. Add the provider to the backend.
 5. Add a frontend Auth Utility API.
