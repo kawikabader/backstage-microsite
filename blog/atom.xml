@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://backstage.io/blog</id>
     <title>Backstage Blog</title>
-    <updated>2020-06-22T06:00:00.000Z</updated>
+    <updated>2020-07-01T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://backstage.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Backstage news and events.</subtitle>
     <logo>https://backstage.io/undefined</logo>
     <rights>Copyright © 2020 Spotify AB</rights>
+    <entry>
+        <title type="html"><![CDATA[How to enable authentication in Backstage using Passport]]></title>
+        <id>https://backstage.io/blog/2020/07/01/how-to-enable-authentication-in-backstage-using-passport.html</id>
+        <link href="https://backstage.io/blog/2020/07/01/how-to-enable-authentication-in-backstage-using-passport.html"/>
+        <updated>2020-07-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="/blog/assets/20-07-01/auth-landing.png" alt="auth-landing-page"></p>
+<p>Getting authentication right is important. It helps keep your platform safe, it’s one of the first things users will interact with, and there are many different authentication providers to support. To this end, we chose to use <a href="http://www.passportjs.org/">Passport</a> to provide an easy-to-use, out-of-the-box experience that can be extended to your own, pre-existing authentication providers (known as strategies). The Auth APIs in Backstage serve two purposes: identify the user and provide a way for plugins to request access to third-party services on behalf of the user. We’ve already implemented Google and GitHub authentication to provide examples and to get you started.</p>
+]]></summary>
+        <author>
+            <name>Lee Mills</name>
+            <email/>
+            <uri>https://github.com/leemills83</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backstage Service Catalog released in alpha]]></title>
         <id>https://backstage.io/blog/2020/06/22/backstage-service-catalog-alpha.html</id>
